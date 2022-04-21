@@ -1,7 +1,7 @@
 # Companion Module Requests
 Got a request for a piece of gear, device, hardware or software you'd like to be able control with Companion?
 
-**First**, make sure it hasn't already been created. New modules are created and added all the time, so first download the latest version of Companion and make sure it's not there.
+**First**, make sure it hasn't already been created. New modules are created and added all the time, so first download the latest version of Companion and make sure it's not there. New modules will appear in the Companion beta releases first.
 
 **Second**, make sure it hasn't been requested yet. You can check the list of requested but undeveloped modules [here](https://github.com/bitfocus/companion-module-requests/issues).
 
