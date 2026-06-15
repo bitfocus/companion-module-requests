@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Got a module you've already written you want added to Companion?
+    url: https://companion.free/for-developers/module-development/module-lifecycle/releasing-your-module
+    about: Follow the steps here for how to do that. Creating an issue won't advance that process
+  - name: Bug or feature request for Companion?
+    url: https://github.com/bitfocus/companion/issues
+    about: Report it against Companion itself, to get the relevant people notified.
